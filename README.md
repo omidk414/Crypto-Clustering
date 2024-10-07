@@ -13,7 +13,6 @@ This project utilizes unsupervised learning to predict if cryptocurrencies are a
 - [Cluster Cryptocurrencies with K-means Using the PCA Data](#cluster-cryptocurrencies-with-k-means-using-the-pca-data)
 - [Examples and Analysis](#examples-and-analysis)
 - [Conclusion](#conclusion)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -97,7 +96,3 @@ Using fewer features through PCA still provides clear clustering, indicating eff
 
 # Conclusion
 Overall, by reducing the number of features impacts clustering performance using K-means. By comparing the clustering results from the original dataset and the PCA-transformed data, it highlights the effect of dimensionality reduction on the clustering process.
-
-# Acknowledgements
-Study Group Members:
-    Gursimran Kaur - kaursimran081999@gmail.com - SimranBoparai
